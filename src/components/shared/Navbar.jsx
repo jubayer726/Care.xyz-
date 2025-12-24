@@ -25,6 +25,7 @@ const Navbar = () => {
           <li><Link href="/services" className="hover:text-green-400">All Services</Link></li>
           <li><Link href="/about" className="hover:text-green-400">About</Link></li>
           <li><Link href="/contact" className="hover:text-green-400">Contact</Link></li>
+          <li><Link href="/book" className="hover:text-green-400 border px-4 py-2 rounded border-orange-600">Book Now</Link></li>
         </ul>
 
         {/* Auth Buttons */}
